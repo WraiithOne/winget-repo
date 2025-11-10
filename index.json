@@ -1,0 +1,17 @@
+{
+  "Sources": [
+    {
+      "Packages": [
+        {
+          "PackageIdentifier": "SI.Bob",
+          "Versions": [
+            {
+              "PackageVersion": "1.4.0.1",
+              "ManifestPath": "manifests/s/si/bob/1.4.0.1/"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
