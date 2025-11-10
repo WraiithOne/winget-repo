@@ -1,5 +1,5 @@
 PackageIdentifier: SI.Bob
 InstallerType: msix
 Architecture: x64
-InstallerUrl: https://wraiithone.github.io/wingetrepo/installers/bob_1.4.0.1_x64.msix
+InstallerUrl: https://wraiithone.github.io/winget-repo/installers/bob_1.4.0.1_x64.msix
 InstallerSha256: 036EFA7E6A34F04F0BC86B5D79E4EF0CA94EEDDDF3D1907CE210DA38CE77D695
